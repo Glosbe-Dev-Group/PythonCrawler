@@ -3,15 +3,10 @@ PythonCrawler
 
 'first update'
 
-
 <h3>A simple Web Crawler</h3>
 project directories 
 
-pythonCrawler
-  |
-  |_____glosbeCrawler.py
-  
-
+pythonCrawler -> glosbeCrawler.py
 
 <h2>USAGE</h2>
 open the terminal and place 
